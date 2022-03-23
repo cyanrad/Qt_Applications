@@ -1,0 +1,59 @@
+[version]
+version_num = 1.01
+
+[window]
+window_mode = windowed
+window_top_x = 0
+window_top_y = 0
+window_size_x = 1280
+window_size_y = 720
+render_size_x = 1920
+render_size_y = 1080
+fullscreen_render_size_x = 1920
+fullscreen_render_size_y = 1080
+
+[pad]
+pad_help_type = pad
+
+[mouse]
+mouse_speed = 1.000000
+
+[effect]
+fxaa = on
+
+[keyboard]
+pad_up = key_w,up_arrow
+pad_down = key_s,down_arrow
+pad_left = key_a,left_arrow
+pad_right = key_d,right_arrow
+pad_r1 = key_e,space
+pad_r2 = 
+pad_r3 = 
+pad_l1 = key_q
+pad_l2 = 
+pad_l3 = 
+pad_cross = key_z
+pad_circle = escape,key_r,key_x
+pad_square = f1
+pad_triangle = return
+pad_start = f3
+pad_select = f2
+pad_any = return,space,escape
+move_front = key_w
+move_back = key_s
+move_left = key_a
+move_right = key_d
+move_camera_up = up_arrow
+move_camera_down = down_arrow
+move_camera_left = left_arrow
+move_camera_right = right_arrow
+move_camera_left_dr = left_arrow,key_q
+move_camera_right_dr = right_arrow,key_e
+move_dash = l_shift
+message_skip = l_ctrl,escape,key_x
+push_w = key_w
+push_s = key_s
+push_a = key_a
+push_d = key_d
+mouse_mode = slash
+return_button = key_z,return
